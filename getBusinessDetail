@@ -1,0 +1,18 @@
+{
+    "data": {
+        "status": "success",
+        "animal": [
+            {
+                "unique_id": "f51be2ce-4e74-4c72-bd07-ae88076d5c94",
+                "update_date": "2020-02-07T17:45:48Z",
+                "etag": "-1441094167",
+                "numberOfBusines": "1",
+                "business_id": "12345",
+                "business_name": "Alton Farm",
+                "activeAnimalCount": "2",
+                "user_email": "abc@gmail.com",
+                "user_initials": "AF"
+            }
+        ]
+    }
+}
